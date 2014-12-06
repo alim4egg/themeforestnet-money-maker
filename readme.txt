@@ -24,9 +24,8 @@ Simple way earn more money from you web page. In widget show newest Wordpress th
 
 4.  Go to Themeforest.net and create new account.
 
-5.  New account username write in Themeforest.net Money Maker widget settings.*
+5.  New account username write in Themeforest.net Money Maker widget settings (widget settings example you can see in screenshot.png picture).
 
-* Widget settings example you can see in screenshot.png picture.
 
 
 == Frequently Asked Questions ==
